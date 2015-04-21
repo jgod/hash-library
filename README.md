@@ -2,21 +2,19 @@
 Mirror of Stephan Brumme's [hash-library](http://create.stephan-brumme.com/hash-library/).
 
 ```
-Latest release: February 27, 2015, size: 59.3 kBytes
+Latest release: March 24, 2015, size: 59.5 kBytes
 
-CRC32:2c86a3d9
-MD5:bfd557872c978779bd6f6fde7f226ee5
-SHA1:44f47d73fc0d8281fa07f1b616427633f652332b
-SHA256:9a37ac2a68b490f85e605b267aa65f6e54b18812cec9471136dcd54d81ecda4c
+CRC32:df4e7b0e
+MD5:dabf48a0c2ff2990ab041bffd2d9178a
+SHA1:0cd988353fa2a528c43f0c5a7c0f32a1760c1120
+SHA256:ac405a57e6b87c6952c3e42cec5395805bc81af05298e11cb41f89a9a7b4ed5d
 
 Stay up-to-date:git clone http://create.stephan-brumme.com/hash-library/.git
 ```
 
 ```
-version 6
+version 7
 latest and greatest
-February 27, 2015
-fixed padding bug in Keccak and SHA3
-added HMAC
-added simple test suite
+March 24, 2015
+SHA3/224 and Keccak/224 returned incomplete hash
 ```
